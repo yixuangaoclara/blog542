@@ -1,0 +1,14 @@
+---
+title: "Building a Machine Learning Model in Python with Scikit-Learn"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+
